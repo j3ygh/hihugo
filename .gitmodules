@@ -1,0 +1,6 @@
+[submodule "hihugo/themes/loveit"]
+	path = hihugo/themes/loveit
+	url = https://github.com/dillonzq/LoveIt
+[submodule "hihugo/themes/papermod"]
+	path = hihugo/themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod
